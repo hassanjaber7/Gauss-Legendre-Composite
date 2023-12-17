@@ -1,4 +1,4 @@
-%Hassan Jaber - 330214 - Project number 5 - Group B
+
 function I = Gauss_Legendre_Composite(f, a, b, c, d, nx, ny)
     % nx: number of subintervals in x
     % ny: number of subintervals in y
