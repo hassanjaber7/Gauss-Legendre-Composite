@@ -1,4 +1,4 @@
-%Hassan Jaber - 330214 - Project number 5 - Group B
+
 function test_Gauss_Legendre_Composite(f, a, b, c, d, nx, ny)
     
     % Expected result (you should replace this with the actual expected result)
